@@ -1,0 +1,100 @@
+{
+    "credits" : [
+        {
+            "name" : "Discussions",
+            "role" : "Main Mod Coder & Charter",
+            "icon" : "credits/discussions",
+            "urls" : [
+                {
+                    "name" : "YouTube",
+                    "url" : "https://www.youtube.com/channel/UCAawAIWR5XfJE6T0JdYpzzg"
+                },
+                {
+                    "name" : "Github",
+                    "url" : "https://github.com/music-discussion"
+                },
+                {
+                    "name": "Twitch",
+                    "url": "https://www.twitch.tv/nintendo_discussions"
+                }
+            ]
+        },
+        {
+            "name" : "Teu",
+            "role" : "Animator & Artist & Ideas",
+            "icon" : "credits/teuxml",
+            "urls" : [
+                {
+                    "name" : "Reddit",
+                    "url" : "https://www.reddit.com/user/TeuGamer09"
+                },
+                {
+                    "name" : "Spotify",
+                    "url" : "https://open.spotify.com/user/wt8faueonlljo8s776bc3axhf"
+                },
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/TeuGamer09"
+                },
+                {
+                    "name" : "Youtube",
+                    "url" : "https://www.youtube.com/channel/UC-Mqu9H63TRNYEzqIt-XUUQ"
+                },
+                {
+                    "name" : "Steam",
+                    "url": "https://steamcommunity.com/id/reuniaogamer/"
+                },
+                {
+                    "name": "Twitch",
+                    "url": "https://www.twitch.tv/teugamer09"
+                }
+            ]
+        },
+        {
+            "name" : "Glitch",
+            "role" : "Musician (made music you are hear now",
+            "icon" : "credits/glitch",
+            "urls" : [
+                {
+                    "name" : "Reddit",
+                    "url" : "https://www.reddit.com/user/GoldBarsAreMine"
+                },
+                {
+                    "name" : "Spotify",
+                    "url" : "https://open.spotify.com/user/aui1wldkgmaa0rzttg5ykxn0s"
+                },
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/GlitcheZ_YT"
+                },
+                {
+                    "name" : "Youtube",
+                    "url" : "https://www.youtube.com/channel/UCB3IP5vndZ90fQ7hQ00HhZQ"
+                },
+                {
+                    "name" : "Discord Server",
+                    "url": "https://discord.com/invite/xrEBhPvfwA"
+                },
+                {
+                    "name": "Soundcloud",
+                    "url": "https://soundcloud.app.goo.gl/QLjCAVBUb5s4EBaY7"
+                }
+            ]
+        },
+        {
+            "name" : "SMB",
+            "role" : "Creator of Rush Collection",
+            "icon" : "credits/smb",
+            "urls" : [
+                {
+                    "name" : "Newgrounds",
+                    "url" : "https://evilsk8r.newgrounds.com/"
+                },
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/evilsk8r"
+                }
+            ]
+        }
+    ]
+}

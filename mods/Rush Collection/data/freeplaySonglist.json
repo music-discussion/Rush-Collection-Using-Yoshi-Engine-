@@ -1,0 +1,11 @@
+{
+    "songs" : [
+        {
+            "name" : "Rushes",
+            "char" : "face",
+            "color" : "#460021",
+            "bpm" : 240,
+            "difficulties": ["normal", "playable"]
+        }
+    ]
+}

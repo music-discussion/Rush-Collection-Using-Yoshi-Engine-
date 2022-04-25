@@ -1,0 +1,44 @@
+{
+    "weeks" : [
+        {
+            "name" : "THE ORIGINAL DEAL",
+            "songs" : ["rushes"],
+            "buttonSprite" : "images/storymenu/week0.png",
+            "dad" :
+            {
+                "file" : "images/storymenu/campaign_menu_UI_characters",
+                "animation" : "Dad idle dance BLACK LINE",
+                "scale" : 0.5,
+                "flipX" : false,
+                "offset" : [120,200]
+            },
+            "difficulties":
+            [
+                {
+                    "name" : "Normal",
+                    "sprite" : "Rush Collection:storymenu/hard"
+                }
+            ]
+        },
+        {
+            "name" : "EVERYONE NEEDS A REST",
+            "songs" : ["rushes"],
+            "buttonSprite" : "images/storymenu/week1.png",
+            "dad" :
+            {
+                "file" : "images/storymenu/campaign_menu_UI_characters",
+                "animation" : "Dad idle dance BLACK LINE",
+                "scale" : 0.5,
+                "flipX" : false,
+                "offset" : [120,200]
+            },
+            "difficulties":
+            [
+                {
+                    "name" : "Playable",
+                    "sprite" : "Rush Collection:storymenu/normal"
+                }
+            ]
+        }
+    ]
+}
